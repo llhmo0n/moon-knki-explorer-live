@@ -1,37 +1,50 @@
 {
-  "chain": [
+  "balances": {
+    "MC7GUBTOENK3BFW5GGHIDN7R5UQ3MF37Q": 1000100
+  },
+  "cadena": [
     {
+      "hash": "aeebad4a796fcc2e15dc4c6061b45ed9b373f26adfc798ca7d2d8cc58182718e",
+      "hash_anterior": "0000000000000000000000000000000000000000000000000000000000000000",
       "index": 0,
+      "nonce": 0,
+      "timestamp": 1764063661,
       "transacciones": [
         {
-          "type": "coinbase",
-          "to": "MC7GUBTOENK3BFW5GGHIDN7R5UQ3MF37Q",
           "amount": 1000000,
-          "message": "MOON - La Plata Digital - 1M para Knki - 25 Nov 2025"
+          "to": "MC7GUBTOENK3BFW5GGHIDN7R5UQ3MF37Q",
+          "type": "coinbase"
         }
-      ],
-      "timestamp": 1764063661,
-      "hash_anterior": "0000000000000000000000000000000000000000000000000000000000000000",
-      "nonce": 0,
-      "hash": "aeebad4a796fcc2e15dc4c6061b45ed9b373f26adfc798ca7d2d8cc58182718e"
+      ]
     },
     {
+      "hash": "000000ba7a2d920db4bc416c57b474e61fa490c6f0c36827a60924ecff528bd8",
+      "hash_anterior": "aeebad4a796fcc2e15dc4c6061b45ed9b373f26adfc798ca7d2d8cc58182718e",
       "index": 1,
+      "nonce": 1366165,
+      "timestamp": 1764063977,
       "transacciones": [
         {
-          "type": "coinbase",
+          "amount": 50,
           "to": "MC7GUBTOENK3BFW5GGHIDN7R5UQ3MF37Q",
-          "amount": 50
+          "type": "coinbase"
         }
-      ],
-      "timestamp": 1764063977,
-      "hash_anterior": "aeebad4a796fcc2e15dc4c6061b45ed9b373f26adfc798ca7d2d8cc58182718e",
-      "nonce": 1366165,
-      "hash": "000000ba7a2d920db4bc416c57b474e61fa490c6f0c36827a60924ecff528bd8"
+      ]
+    },
+    {
+      "hash": "000005ba56e61dc36d4101cbf324329205c78269e7fe644563376a9ad2e4586f",
+      "hash_anterior": "000000ba7a2d920db4bc416c57b474e61fa490c6f0c36827a60924ecff528bd8",
+      "index": 2,
+      "nonce": 2759733,
+      "timestamp": 1764101078,
+      "transacciones": [
+        {
+          "amount": 50,
+          "to": "MC7GUBTOENK3BFW5GGHIDN7R5UQ3MF37Q",
+          "type": "coinbase"
+        }
+      ]
     }
   ],
-  "balances": {
-    "MC7GUBTOENK3BFW5GGHIDN7R5UQ3MF37Q": 1000050
-  },
   "miner_address": "MC7GUBTOENK3BFW5GGHIDN7R5UQ3MF37Q"
 }
