@@ -13,12 +13,31 @@
       "hash_anterior": "0",
       "nonce": 139675,
       "hash": "0000781d16bac8994abdfe0abcfd159e275206dae0822b4f75ff0c8d1a96c30c"
+    },
+    {
+      "indice": 1,
+      "transacciones": [
+        {
+          "tipo": "reward",
+          "to": "MC7GUBTOENK3BFW5GGHIDN7R5UQ3MF37Q",
+          "cantidad": 50
+        },
+        {
+          "tipo": "transfer",
+          "de": "MC7GUBTOENK3BFW5GGHIDN7R5UQ3MF37Q",
+          "a": "MBJKVVJNTV5GSHZAV7US6VWXOPE6TTSIW",
+          "cantidad": 2000000
+        }
+      ],
+      "timestamp": 1764052885.5800962,
+      "hash_anterior": "0000781d16bac8994abdfe0abcfd159e275206dae0822b4f75ff0c8d1a96c30c",
+      "nonce": 6188,
+      "hash": "0000b9ded6cc7bad5f026314cd31ffceeec347df983c5641976e434ce9952124"
     }
   ],
   "balances": {
-    "MC7GUBTOENK3BFW5GGHIDN7R5UQ3MF37Q": 5000000
+    "MC7GUBTOENK3BFW5GGHIDN7R5UQ3MF37Q": 3000000,
+    "MBJKVVJNTV5GSHZAV7US6VWXOPE6TTSIW": 2000000
   },
-  "direccion": "MC7GUBTOENK3BFW5GGHIDN7R5UQ3MF37Q",
-  "private_key_enc": "gAAAAABpJUDztru794touLiWqATaLvuo7EmfO9gwDNsBnNHSaDSHpoDXxIugdasfwCarBaULaHeB7FPbioToZxvmISdrhdhQ89b1i-NFvYacUsWb-xC161DLrj_7WrC7PpjRYiRjnNgvcr1Ybg1lc3NOH0rSYtuQQvyGOwxrm783aKmEaczXns4=",
-  "nonce_tx": {}
+  "direccion": "MC7GUBTOENK3BFW5GGHIDN7R5UQ3MF37Q"
 }
