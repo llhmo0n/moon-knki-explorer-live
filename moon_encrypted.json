@@ -69,10 +69,24 @@
       "previous_hash": "0000c07983f996b8d7edd26ba2b07162b96272dea127609a32a1ec4450b4cba5",
       "nonce": 120467,
       "hash": "0000098e752234f9345709ad16c9b48c81c9c6d394a73e08f3ab6ccb2481d35c"
+    },
+    {
+      "index": 4,
+      "transacciones": [
+        {
+          "type": "coinbase",
+          "to": "MC7GUBTOENK3BFW5GGHIDN7R5UQ3MF37Q",
+          "amount": 50
+        }
+      ],
+      "timestamp": 1764058043,
+      "hash_anterior": "0000098e752234f9345709ad16c9b48c81c9c6d394a73e08f3ab6ccb2481d35c",
+      "nonce": 850385,
+      "hash": "000001c6e7fe99d5bdd8e47fd571f7b892704bbf6493d64e690ba85bdf93a44c"
     }
   ],
   "balances": {
-    "MC7GUBTOENK3BFW5GGHIDN7R5UQ3MF37Q": 5002500050,
+    "MC7GUBTOENK3BFW5GGHIDN7R5UQ3MF37Q": 5002500100,
     "MBJKVVJNTV5GSHZAV7US6VWXOPE6TTSIW": 2500000
   }
 }
