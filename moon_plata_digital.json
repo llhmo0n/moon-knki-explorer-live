@@ -2,38 +2,22 @@
   "chain": [
     {
       "index": 0,
-      "transactions": [
+      "transacciones": [
         {
           "type": "coinbase",
-          "to": "MCIOFAHSUOSVFCKMMWWRVJMR6G6YFVCX5",
+          "to": "MB3O5NJ7LH2BJLSFT4FZKCBT3YTGWVQRZ",
           "amount": 1000000,
-          "message": "MOON \u2013 La Plata Digital \u2013 1M para Knki \u2013 25 Nov 2025 \u2013 Fair Launch con justicia"
+          "message": "MOON \u2013 La Plata Digital \u2013 1M para Knki \u2013 25 Nov 2025"
         }
       ],
-      "timestamp": 1764059846,
-      "previous_hash": "0000000000000000000000000000000000000000000000000000000000000000",
-      "bits": "1d00ffff00000000000000000000000000000000000000000000000000000000",
-      "nonce": 10,
-      "hash": "075f7dc2ba02864e24311b99f60261ac0d5e4e7d73e6b0e18a3965044b399378"
-    },
-    {
-      "index": 1,
-      "transactions": [
-        {
-          "type": "coinbase",
-          "to": "MCIOFAHSUOSVFCKMMWWRVJMR6G6YFVCX5",
-          "amount": 50
-        }
-      ],
-      "timestamp": 1764059873,
-      "previous_hash": "075f7dc2ba02864e24311b99f60261ac0d5e4e7d73e6b0e18a3965044b399378",
-      "bits": "1d00ffff00000000000000000000000000000000000000000000000000000000",
-      "nonce": 21,
-      "hash": "02f9c5fe83580b22873f5e54f2639745c154b4cf5160d4a4ca64570d2b73f846"
+      "timestamp": 1764060684,
+      "hash_anterior": "0000000000000000000000000000000000000000000000000000000000000000",
+      "nonce": 985274,
+      "hash": "00000064988198363fab97683930de788fd7350f02bba087ea502b04cb78a45e"
     }
   ],
   "balances": {
-    "MCIOFAHSUOSVFCKMMWWRVJMR6G6YFVCX5": 1000050
+    "MB3O5NJ7LH2BJLSFT4FZKCBT3YTGWVQRZ": 1000000
   },
-  "miner_address": "MCIOFAHSUOSVFCKMMWWRVJMR6G6YFVCX5"
+  "miner_address": "MB3O5NJ7LH2BJLSFT4FZKCBT3YTGWVQRZ"
 }
