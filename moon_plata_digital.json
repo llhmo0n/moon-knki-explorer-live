@@ -5,32 +5,20 @@
       "transactions": [
         {
           "type": "coinbase",
-          "to": "MCSLQKVLO4NOHFZ6ZQJVDIH5XYRF7RJS7",
-          "amount": 5000000000
+          "to": "MCIOFAHSUOSVFCKMMWWRVJMR6G6YFVCX5",
+          "amount": 1000000,
+          "message": "MOON \u2013 La Plata Digital \u2013 1M para Knki \u2013 25 Nov 2025 \u2013 Fair Launch con justicia"
         }
       ],
-      "timestamp": 1764056856,
+      "timestamp": 1764059846,
       "previous_hash": "0000000000000000000000000000000000000000000000000000000000000000",
-      "nonce": 553505,
-      "hash": "00000bee1bc023dfc59bf2ba1590d5701cf1d110f76382097d4d7541255a64fa"
-    },
-    {
-      "index": 1,
-      "transactions": [
-        {
-          "type": "coinbase",
-          "to": "MCSLQKVLO4NOHFZ6ZQJVDIH5XYRF7RJS7",
-          "amount": 5000000000
-        }
-      ],
-      "timestamp": 1764056868,
-      "previous_hash": "00000bee1bc023dfc59bf2ba1590d5701cf1d110f76382097d4d7541255a64fa",
-      "nonce": 179695,
-      "hash": "00000de0800370feacbefb1d634606fc98f39d75171a79649e42ffe47cdd904a"
+      "bits": "1d00ffff00000000000000000000000000000000000000000000000000000000",
+      "nonce": 10,
+      "hash": "075f7dc2ba02864e24311b99f60261ac0d5e4e7d73e6b0e18a3965044b399378"
     }
   ],
   "balances": {
-    "MCSLQKVLO4NOHFZ6ZQJVDIH5XYRF7RJS7": 10000000000
+    "MCIOFAHSUOSVFCKMMWWRVJMR6G6YFVCX5": 1000000
   },
-  "creator_address": "MCSLQKVLO4NOHFZ6ZQJVDIH5XYRF7RJS7"
+  "miner_address": "MCIOFAHSUOSVFCKMMWWRVJMR6G6YFVCX5"
 }
