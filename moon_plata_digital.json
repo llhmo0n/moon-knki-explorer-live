@@ -13,10 +13,24 @@
       "previous_hash": "0000000000000000000000000000000000000000000000000000000000000000",
       "nonce": 553505,
       "hash": "00000bee1bc023dfc59bf2ba1590d5701cf1d110f76382097d4d7541255a64fa"
+    },
+    {
+      "index": 1,
+      "transactions": [
+        {
+          "type": "coinbase",
+          "to": "MCSLQKVLO4NOHFZ6ZQJVDIH5XYRF7RJS7",
+          "amount": 5000000000
+        }
+      ],
+      "timestamp": 1764056868,
+      "previous_hash": "00000bee1bc023dfc59bf2ba1590d5701cf1d110f76382097d4d7541255a64fa",
+      "nonce": 179695,
+      "hash": "00000de0800370feacbefb1d634606fc98f39d75171a79649e42ffe47cdd904a"
     }
   ],
   "balances": {
-    "MCSLQKVLO4NOHFZ6ZQJVDIH5XYRF7RJS7": 5000000000
+    "MCSLQKVLO4NOHFZ6ZQJVDIH5XYRF7RJS7": 10000000000
   },
   "creator_address": "MCSLQKVLO4NOHFZ6ZQJVDIH5XYRF7RJS7"
 }
